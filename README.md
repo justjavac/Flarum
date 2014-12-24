@@ -1,3 +1,7 @@
+源项目地址：https://github.com/flarum/core
+
+-------------------
+
 **来吧，让我们一起构建一个让小伙伴们都惊呆的 PHP 论坛。**
 
 我是 [Toby Zerner](http://tobyzerner.com)， [esoTalk](http://esotalk.org) 的开发者。
