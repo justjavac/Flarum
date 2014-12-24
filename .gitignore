@@ -1,0 +1,6 @@
+/vendor
+composer.phar
+.DS_Store
+Thumbs.db
+public/*
+tests/_output/*
