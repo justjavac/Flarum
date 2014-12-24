@@ -1,10 +1,16 @@
-**Together, let's build amazing PHP forum software.**
+**来吧，让我们一起构建一个让小伙伴们都惊呆的 PHP 论坛。**
 
-I’m [Toby Zerner](http://tobyzerner.com), the developer of [esoTalk](http://esotalk.org). Years ago, I built esoTalk as a fresh, lightweight forum software alternative. esoTalk is nice but it is [not built on a sustainable foundation](http://esotalk.org/blog/faq.html).
+我是 [Toby Zerner](http://tobyzerner.com)， [esoTalk](http://esotalk.org) 的开发者。
+年前，我构建了一个新颖的，轻量级的 esoTalk 论坛的替代者。
+esoTalk 非常好，但是它[没有构建在一个可持续发展的基础上](http://bbs.justjavac.com/6)（译注：esoTalk 的底层框架重新发明了轮子）。
 
 **As it stands, there is a need for modern, well-architected, powerful forum software that is easy to use and self-host.** That’s what Flarum is. But I'm a full-time student and I don't have time to do this by myself. So I'm opening up Flarum to the world — let's build it together.
 
-## Philosophy
+**基于此，我们需要一个现代化的，良好的架构的，强大的论坛软件，并且易于使用和托管。**
+这就是 Flarum。但我是一个全职学生，我没有足够的时间独立完成这个项目。
+于是我将采用开放协作的方式来开发 Flarum —— 让全世界的开发者一起开发 Flarum。
+
+## 开发理念
 
 I have a vision for Flarum — one that has grown over years of playing with forums, developing esoTalk, and learning from mistakes. It is captured by the following four points:
 
