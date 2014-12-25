@@ -4,69 +4,64 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Validation Language Lines
+	| 验证
 	|--------------------------------------------------------------------------
-	|
-	| The following language lines contain the default error messages used by
-	| the validator class. Some of these rules have multiple versions such
-	| such as the size rules. Feel free to tweak each of these messages.
-	|
 	*/
 
-	"accepted"         => "The :attribute must be accepted.",
-	"active_url"       => "The :attribute is not a valid URL.",
-	"after"            => "The :attribute must be a date after :date.",
-	"alpha"            => "The :attribute may only contain letters.",
-	"alpha_dash"       => "The :attribute may only contain letters, numbers, and dashes.",
-	"alpha_num"        => "The :attribute may only contain letters and numbers.",
-	"before"           => "The :attribute must be a date before :date.",
+	"accepted"         => ":attribute 必须接受。",
+	"active_url"       => ":attribute 不是有效的 URL。",
+	"after"            => ":attribute 必须是 :date 之后的日期。",
+	"alpha"            => ":attribute 只能包含字母。",
+	"alpha_dash"       => ":attribute 只能包含字母、数字、中下划线、破折号。",
+	"alpha_num"        => ":attribute 只能包含字母、数字。",
+	"before"           => ":attribute 必须是 :date 之前的日期。",
 	"between"          => array(
-		"numeric" => "The :attribute must be between :min - :max.",
-		"file"    => "The :attribute must be between :min - :max kilobytes.",
-		"string"  => "The :attribute must be between :min - :max characters.",
+		"numeric" => ":attribute 必须在 :min 和 :max 之间。",
+		"file"    => ":attribute 必须在 :min KB 到 :max KB 之间。",
+		"string"  => ":attribute 必须在 :min 到 :max 个字符之间。",
 	),
-	"confirmed"        => "The :attribute confirmation does not match.",
-	"date"             => "The :attribute is not a valid date.",
-	"date_format"      => "The :attribute does not match the format :format.",
-	"different"        => "The :attribute and :other must be different.",
-	"digits"           => "The :attribute must be :digits digits.",
-	"digits_between"   => "The :attribute must be between :min and :max digits.",
-	"email"            => "The :attribute format is invalid.",
-	"exists"           => "The selected :attribute is invalid.",
-	"image"            => "The :attribute must be an image.",
-	"in"               => "The selected :attribute is invalid.",
-	"integer"          => "The :attribute must be an integer.",
-	"ip"               => "The :attribute must be a valid IP address.",
+	"confirmed"        => ":attribute 与重复输入不匹配。",
+	"date"             => ":attribute 不是有效的日期。",
+	"date_format"      => ":attribute 没有匹配规定的日期格式 :format",
+	"different"        => ":attribute 与 :other 必须不相同。",
+	"digits"           => ":attribute 必须是 :digits 位数字。",
+	"digits_between"   => ":attribute 必须在 :min 到 :max 位数字之间。",
+	"email"            => ":attribute 格式不正确。",
+	"exists"           => "已经选择的 :attribute 不是有效的值。",
+	"image"            => ":attribute 必须是一张图片。",
+	"in"               => "已选的 :attribute 非法。",
+	"integer"          => ":attribute 必须是一个整数。",
+	"ip"               => ":attribute 必须是一个有效的IP地址。",
 	"max"              => array(
-		"numeric" => "The :attribute may not be greater than :max.",
-		"file"    => "The :attribute may not be greater than :max kilobytes.",
-		"string"  => "The :attribute may not be greater than :max characters.",
+		"numeric" => ":attribute 必须不能大于 :max 。",
+		"file"    => ":attribute 必须不能大于 :max KB。",
+		"string"  => ":attribute 必须不能大于 :max 个字符。",
 	),
-	"mimes"            => "The :attribute must be a file of type: :values.",
+	"mimes"            => ":attribute 必须是一个 :values 类型的文件。",
 	"min"              => array(
-		"numeric" => "The :attribute must be at least :min.",
-		"file"    => "The :attribute must be at least :min kilobytes.",
-		"string"  => "The :attribute must be at least :min characters.",
+		"numeric" => ":attribute 必须不能小于 :min 。",
+		"file"    => ":attribute 必须不能小于 :min KB。",
+		"string"  => ":attribute 必须不能小于 :min 个字符。",
 	),
-	"not_in"           => "The selected :attribute is invalid.",
-	"numeric"          => "The :attribute must be a number.",
-	"regex"            => "The :attribute format is invalid.",
-	"required"         => "The :attribute field is required.",
-	"required_if"      => "The :attribute field is required when :other is :value.",
-	"required_with"    => "The :attribute field is required when :values is present.",
-	"required_without" => "The :attribute field is required when :values is not present.",
-	"same"             => "The :attribute and :other must match.",
+	"not_in"           => "已选的 :attribute 非法。",
+	"numeric"          => ":attribute 必须是一个数字。",
+	"regex"            => ":attribute 格式不正确。",
+	"required"         => ":attribute 不能为空。",
+	"required_if"      => "当 :other 为 :value 时 :attribute 不能为空。",
+	"required_with"    => "当 :values 存在时 :attribute 不能为空。",
+	"required_without" => "当 :values 不存在时 :attribute 不能为空。",
+	"same"             => ":attribute 和 :other 必须匹配。",
 	"size"             => array(
-		"numeric" => "The :attribute must be :size.",
-		"file"    => "The :attribute must be :size kilobytes.",
-		"string"  => "The :attribute must be :size characters.",
+		"numeric" => ":attribute 大小必须是 :size",
+		"file"    => ":attribute 大小必须是 :size KB。",
+		"string"  => ":attribute 必须是 :size 个字符。",
 	),
-	"unique"           => "The :attribute has already been taken.",
-	"url"              => "The :attribute format is invalid.",
+	"unique"           => ":attribute 已经存在。",
+	"url"              => ":attribute 不是一个有效的 URL。",
 
 	/*
 	|--------------------------------------------------------------------------
-	| Custom Validation Language Lines
+	| 自定义验证规则
 	|--------------------------------------------------------------------------
 	|
 	| Here you may specify custom validation messages for attributes using the
@@ -79,7 +74,7 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Custom Validation Attributes
+	| 自定义验证属性
 	|--------------------------------------------------------------------------
 	|
 	| The following language lines are used to swap attribute place-holders
