@@ -4,6 +4,8 @@
 
 **来吧，让我们一起构建一个让小伙伴们都惊呆的 PHP 论坛。**
 
+QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce16b9ac4b222fce3102c41fcc39048cba045d1d242bc33ed5e845c1166c138a" title="Flarum交流群">188723593</a>
+
 我是 [Toby Zerner](http://tobyzerner.com)， [esoTalk](http://esotalk.org) 的开发者。
 年前，我构建了一个新颖的，轻量级的 esoTalk 论坛的替代者。
 esoTalk 非常好，但是它[没有构建在一个可持续发展的基础上](http://bbs.justjavac.com/6)（译注：esoTalk 的底层框架重新发明了轮子）。
