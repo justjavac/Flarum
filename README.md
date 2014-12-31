@@ -49,13 +49,13 @@ I’ve been working on a prototype for some time in-between my studies. In addit
 
 You might notice that a lot of the code is a bit of a mess right now. This is because I wanted to get things working on a superficial level in order to record material for the Kickstarter video, and since then I haven't yet had sufficient time to clean it up. Please be aware that the mess is not at all indicative of the standard that we're aiming for!
 
-### What’s Done
+### 已经完成的
 
-- [x] The basic technology stack (Laravel and Ember – see above)
-- [x] The [architectural foundation](https://github.com/flarum/core/wiki/Architecture) (core/API/web layers)
-- [x] Some of the API (discussion and post read + write)
-- [x] Discussion list view and basic search functionality
-- [x] Discussion viewing and scrolling
+- [x] 基础技术栈 (Laravel 和 Ember)
+- [x] 三层架构的 [体系结构](http://discuss.flarum.org.cn/17-flarum-architecture) (core/API/web layers)
+- [x] 部分 API (discussion 和 post 的读写)
+- [x] Discussion 的列表和初级的搜索功能
+- [x] Discussion 详情页和滚动
 
 ### What’s Next
 
