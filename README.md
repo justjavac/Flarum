@@ -61,18 +61,18 @@ You might notice that a lot of the code is a bit of a mess right now. This is be
 
 The priority at the moment is to build out a lightweight core, and only start building [Extensions](https://github.com/flarum/core/wiki/Extensions) when it is relatively stable. Below is a list of the things to work on immediately, with links to the relevant discussion.
 
-- [ ] Interface redesign ([#1](https://github.com/flarum/core/issues/1))
-- [ ] Upgrade to Laravel 5 ([#2](https://github.com/flarum/core/issues/2))
-- [ ] Set up testing frameworks in both Laravel ([#3](https://github.com/flarum/core/issues/3)) and Ember ([#4](https://github.com/flarum/core/issues/4))
-- [ ] Further consolidation of Extension interfaces (see [Extensions](https://github.com/flarum/core/wiki/Extensions))
-- [ ] Develop user authentication strategy ([#5](https://github.com/flarum/core/issues/5))
-- [ ] Implement replying, post editing, discussion creation ([#6](https://github.com/flarum/core/issues/6))
-- [ ] Implement discussion title editing ([#7](https://github.com/flarum/core/issues/7))
-- [ ] Implement post deletion ([#8](https://github.com/flarum/core/issues/8))
-- [ ] Implement discussion deletion ([#9](https://github.com/flarum/core/issues/9))
-- [ ] Design user profile interface ([#10](https://github.com/flarum/core/issues/10))
-- [ ] Design admin interfaces ([#11](https://github.com/flarum/core/issues/11))
-- [ ] Build Notifications system ([#12](https://github.com/flarum/core/issues/12))
+- [ ] 界面重新设计 ([界面设计预览](http://discuss.flarum.org.cn/16-flarum))
+- [ ] 升级到 Laravel 5
+- [ ] 为 Laravel 和 Ember 设置测试框架 
+- [ ] 进一步开发扩展接口 (vi [Extensions](https://github.com/flarum/core/wiki/Extensions))
+- [ ] 开发用户认证策略
+- [ ] 实现回复主题(discussion)、编辑帖子(post)、创建主题(discussion)
+- [ ] 实现编辑主题(discussion)标题
+- [ ] 实现删除帖子(post)
+- [ ] 实现删除主题(discussion)
+- [ ] 设计用户中心界面
+- [ ] 设计管理界面
+- [ ] 创建通知(notification)系统
 
 For a full list of planned features, see [Features](https://github.com/flarum/core/wiki/Features).
 
