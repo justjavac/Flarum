@@ -18,6 +18,8 @@ esoTalk 非常好，但是它[没有构建在一个可持续发展的基础上](
 这就是 Flarum。但我是一个全职学生，我没有足够的时间独立完成这个项目。
 于是我将采用开放协作的方式来开发 Flarum —— 让全世界的开发者一起开发 Flarum。
 
+![Flarum 截图](https://pbs.twimg.com/media/B7eOB3bCMAE88_f.png:large)
+
 ## 开发理念
 
 I have a vision for Flarum — one that has grown over years of playing with forums, developing esoTalk, and learning from mistakes. It is captured by the following four points:
