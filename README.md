@@ -45,6 +45,8 @@ Ember.js is a mature JavaScript framework which will power Flarum’s front-end.
 
 > Don't like the fact that Flarum is an Ember.js app? Take a look at [FluxBB 2](https://github.com/fluxbb/fluxbb/tree/2.0), which is being developed in a more traditional manner with Laravel.
 
+注：Flarum 前端现在已经使用 Mithril.js 替换了 Ember.js http://discuss.flarum.org.cn/26-flarum-mithril-js-ember-js
+
 ## Current State
 
 I’ve been working on a prototype for some time in-between my studies. In addition to interface design, most of my time has been spent building out the architecture: making decisions about which frameworks to use, the most effective way to componentize everything, standardizing the API, etc.
@@ -78,53 +80,24 @@ The priority at the moment is to build out a lightweight core, and only start bu
 
 For a full list of planned features, see [Features](https://github.com/flarum/core/wiki/Features).
 
-## Installation
+## 安装
 
-Currently Flarum is in its very early stages, and it isn’t pretty. **It is far from usable.** Set it up only if you know what you’re doing, and expect it to break a lot.
+**Flarum is currently in development and will be ready to use later this year.** ([Roadmap](http://tobyzerner.com/flarum/)) If you want to give the development version a spin or are interested in contributing, for now you can install Flarum's Vagrant image. An easier installation process will become a priority once Flarum is more stable.
 
-1. Make sure you have [Composer](http://getcomposer.org), [ember-cli](http://www.ember-cli.com), and [Bower](http://bower.io) installed globally.
-2. Create a new [Laravel 4](http://laravel.com/docs/4.2/quick) project.
-3. Clone the Flarum repository into the workbench and install dependencies:
-	
-	```
-	git clone https://github.com/flarum/core.git workbench/flarum/core
-	cd workbench/flarum/core
-	composer install
-	cd ../../..
-	php artisan dump-autoload
-	```
+1. Install [Vagrant](https://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org).
+2. Clone this repository and set up the Vagrant box:
 
-5. Create a new MySQL database and configure your database details in `app/config/database.php`.
-6. Run the Flarum migrations and database seeder to generate dummy data:
+  ```sh
+  git clone --recursive https://github.com/flarum/flarum.git
+  cd flarum
+  vagrant up
+  ```
 
-	```
-	php artisan migrate --bench="flarum/core"
-	php artisan db:seed --class="Flarum\Core\Support\Seeders\DatabaseSeeder"
-	```
+3. Add an entry to your /etc/hosts file:
 
-7. Add the Flarum service providers to the `providers` array in `app/config/app.php`:
+  ```192.168.29.29 flarum.dev```
 
-	```
-	'Flarum\Core\CoreServiceProvider',
-	'Flarum\Api\ApiServiceProvider',
-	'Flarum\Web\WebServiceProvider'
-	```
-
-8. Remove the default route in `app/routes.php`.
-9. Run the following commands to compile the Ember app:
-
-	```
-	cd workbench/flarum/core/ember
-	npm install
-	bower install
-	ember serve --output-path="../public"
-	```
-
-10. Visit your Laravel application in a browser.  
-
-	> Note: You must access the Laravel application so that it is at the top level (i.e. not under any sub-directories.) To do this, you can either set your web server's document root to the `public` folder of your application, or you can [configure a virtual host](http://davidwalsh.name/create-virtual-host) pointing to the `public` folder.
-
-If you’re having trouble, **do not** create a new issue — instead, get help on the [Flarum Development Forum](http://discuss.flarum.org) or hop on the IRC channel (#flarum on irc.freenode.net).
+4. Visit flarum.dev in a browser.
 
 ## Contributing
 
