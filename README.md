@@ -1,9 +1,5 @@
 源项目地址：https://github.com/flarum/core
 
-**来吧，让我们一起构建一个让小伙伴们都惊呆的 PHP 论坛。**
-
--------------------
-
 QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce16b9ac4b222fce3102c41fcc39048cba045d1d242bc33ed5e845c1166c138a" title="Flarum交流群">188723593</a>
 
 中文论坛(基于esoTalk)：http://discuss.flarum.org.cn
