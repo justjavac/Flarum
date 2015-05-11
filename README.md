@@ -8,6 +8,8 @@ QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce1
 
 中文论坛(基于esoTalk)：http://discuss.flarum.org.cn
 
+Live Demo http://demo.flarum.org
+
 --------------------
 
 我是 [Toby Zerner](http://tobyzerner.com)， [esoTalk](http://esotalk.org) 的开发者。
