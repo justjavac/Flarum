@@ -6,6 +6,8 @@ QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce1
 
 Live Demo http://demo.flarum.org
 
+在 [BearyChat](https://flarum.bearychat.com/apply) 交流
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/justjavac/flarum-zh)
 
 --------------------
