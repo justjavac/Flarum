@@ -6,6 +6,8 @@ QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce1
 
 Live Demo http://demo.flarum.org
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/justjavac/flarum-zh)
+
 --------------------
 
 我是 [Toby Zerner](http://tobyzerner.com)， [esoTalk](http://esotalk.org) 的开发者。
