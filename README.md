@@ -39,14 +39,11 @@ esoTalk 非常好，但是它[没有构建在一个可持续发展的基础上](
 
 ## Contributing
 
-Building Flarum is going to be a team effort, and we'd love for you to help! All contributions are welcomed.
+Interested in contributing to Flarum? Read the [Contribution Guide](https://github.com/flarum/flarum/blob/master/CONTRIBUTING.md)!
 
-### Contributor License Agreement
+Bug reports should go in [flarum/core](https://github.com/flarum/core/issues) or the [relevant extension repository](https://github.com/flarum).
 
-By contributing your code to Flarum you grant Toby Zerner a non-exclusive, irrevocable, worldwide, royalty-free, sublicenseable, transferable license under all of Your relevant intellectual property rights (including copyright, patent, and any other rights), to use, copy, prepare derivative works of, distribute and publicly perform and display the Contributions on any licensing terms, including without limitation: (a) open source licenses like the MIT license; and (b) binary, proprietary, or commercial licenses. Except for the licenses granted herein, You reserve all right, title, and interest in and to the Contribution.
+### 核心团队
 
-You confirm that you are able to grant us these rights. You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create, You represent that You have received permission to make the Contributions on behalf of that employer, or that Your employer has waived such rights for the Contributions.
-
-You represent that the Contributions are Your original works of authorship, and to Your knowledge, no other person claims, or has the right to claim, any right in any invention or patent related to the Contributions. You also represent that You are not legally obligated, whether by entering into an agreement or otherwise, in any way that conflicts with the terms of this license.
-
-Toby Zerner acknowledges that, except as explicitly described in this Agreement, any Contribution which you provide is on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+- Toby Zerner ([esoTalk](http://esotalk.org), [@tobscure](http://twitter.com/tobscure))
+- Franz Liedke ([FluxBB](http://fluxbb.org), [@franzliedke](http://twitter.com/franzliedke))
