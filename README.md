@@ -4,6 +4,10 @@
 
 QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce16b9ac4b222fce3102c41fcc39048cba045d1d242bc33ed5e845c1166c138a" title="Flarum交流群">188723593</a>
 
+微信群：
+
+![微信群二维码](images/weixin_group.png)
+
 中文开发者论坛：http://discuss.flarum.org.cn
 
 Live Demo http://demo.flarum.org
