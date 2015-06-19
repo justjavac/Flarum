@@ -1,8 +1,10 @@
-源项目地址：https://github.com/flarum/core
+源项目地址：https://github.com/flarum/flarum
+
+中文语言包：https://github.com/justjavac/flarum-i18n-zh
 
 QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce16b9ac4b222fce3102c41fcc39048cba045d1d242bc33ed5e845c1166c138a" title="Flarum交流群">188723593</a>
 
-中文论坛(基于esoTalk)：http://discuss.flarum.org.cn
+中文开发者论坛：http://discuss.flarum.org.cn
 
 Live Demo http://demo.flarum.org
 
@@ -20,7 +22,7 @@ esoTalk 非常好，但是它[没有构建在一个可持续发展的基础上](
 
 **Flarum is currently in development and will be ready to use later this year.** ([Roadmap](http://tobyzerner.com/flarum/)) If you want to give the development version a spin or are interested in contributing, for now you can install Flarum's Vagrant image. An easier installation process will become a priority once Flarum is more stable.
 
-1. Install [Vagrant](https://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org).
+1. 安装 [Vagrant](https://www.vagrantup.com) 和 [VirtualBox](https://www.virtualbox.org).
 2. Clone this repository and set up the Vagrant box:
 
   ```sh
