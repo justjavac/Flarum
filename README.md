@@ -6,7 +6,7 @@ QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce1
 
 微信群：
 
-![微信群二维码](images/weixin_group.png)
+![微信群二维码](https://raw.githubusercontent.com/justjavac/flarum/master/images/weixin_group.png)
 
 中文开发者论坛：http://discuss.flarum.org.cn
 
