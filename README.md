@@ -10,7 +10,7 @@ QQ 交流群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce1
 
 中文开发者论坛：http://discuss.flarum.org.cn
 
-Live Demo http://demo.flarum.org
+Live Demo http://discuss.flarum.org
 
 --------------------
 
