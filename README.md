@@ -1,6 +1,6 @@
 源项目地址：https://github.com/flarum/flarum
 
-中文语言包：https://github.com/justjavac/flarum-i18n-zh
+中文语言包：https://github.com/Flarum-Chinese/Flarum-zh-CN
 
 中文文档：https://www.gitbook.com/book/justjavac/flarum/details
 
