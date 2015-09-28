@@ -6,10 +6,7 @@ Flarum 是一款**自由**、**开源**的论坛软件，它专注于简单。�
 [下载](http://flarum.org/download) -
 [中文文档](https://github.com/justjavac/flarum-doc) -
 [中文语言包](https://github.com/Flarum-Chinese/Flarum-zh-CN) -
-[中文开发者社区](http://discuss.flarum.org.cn) -
-<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=ce16b9ac4b222fce3102c41fcc39048cba045d1d242bc33ed5e845c1166c138a" title="Flarum交流群">QQ群</a> -
-[演示站](http://demo.flarum.org.cn) -
-[捐赠](http://flarum.org/donate)
+[中文开发者社区](http://discuss.flarum.org.cn)
 
 ![截图](http://flarum.org/img/screenshot.png)
 
