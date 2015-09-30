@@ -3,7 +3,7 @@
 Flarum 是一款**自由**、**开源**的论坛软件，它专注于简单。通过 Flarum 您可以轻松地为您的网站搭建一个论坛。
 
 [源码](https://github.com/flarum/flarum) -
-[下载](http://flarum.org/download) -
+[下载中文版](https://github.com/justjavac/flarum/releases) -
 [中文文档](https://github.com/justjavac/flarum-doc) -
 [中文语言包](https://github.com/Flarum-Chinese/Flarum-zh-CN) -
 [中文开发者社区](http://discuss.flarum.org.cn)
