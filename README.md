@@ -26,7 +26,7 @@ Flarum 继承于 [esoTalk](http://esotalk.org) 和 [FluxBB](http://fluxbb.org)�
 
 > **Flarum 目前处于测试阶段，因此不要将它用在生产环境中。** Flarum 的源码在 GitHub。查看开发进度的[路线图](https://github.com/justjavac/flarum/issues/3)。
 
-想立即使用 Flarum，可以到[下载](http://flarum.org/download)页面。你需要一个安装了 **PHP 5.5+** 和 **MySQL 5.5+** 的服务器。
+想立即使用 Flarum，可以到[下载](http://flarum.org/docs/installation/)页面。你需要一个安装了 **PHP 5.5+** 和 **MySQL 5.5+** 的服务器。
 
 如果你想深入研究 Flarum，你需要建立一个开发环境。这部分内容可以阅读文档的[贡献](http://justjavac.gitbooks.io/flarum/content/preface/contributing.html)章节!
 
