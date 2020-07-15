@@ -30,6 +30,13 @@ Flarum 继承于 [esoTalk](http://esotalk.org) 和 [FluxBB](http://fluxbb.org)�
 
 如果你想深入研究 Flarum，你需要建立一个开发环境。这部分内容可以阅读文档的[贡献](http://justjavac.gitbooks.io/flarum/content/preface/contributing.html)章节!
 
+## 捐赠
+
+如果这个论坛对你有所帮助，可以请我喝杯咖啡：
+
+<p align="center"><img src="https://cdn.devtips.cn/buy-me-a-coffee-wechat.png" width="320" height="320" alt="" /></p>
+
+
 ## 核心团队
 
 - Toby Zerner ([GitHub](http://github.com/tobscure), [Twitter](http://twitter.com/tobscure))
